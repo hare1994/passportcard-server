@@ -1,0 +1,25 @@
+{
+  "name": "passpordcard-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "^4.17.1",
+    "pug": "2.0.0-beta11",
+    "request": "latest",
+    "request-promise-native": "^1.0.8",
+    "rxjs": "^6.5.4",
+    "tough-cookie": "latest",
+    "validator": "^13.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
